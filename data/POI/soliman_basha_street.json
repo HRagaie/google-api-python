@@ -1,0 +1,684 @@
+[
+   {
+      "name":"Marena",
+      "formatted_address":"Al Montazah, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.31811759999999,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJXVU89Cg-WBQRxvoWroK_aHI"
+   },
+   {
+      "name":"Sulayman Pasha Mosque",
+      "formatted_address":"2 Zoukak Saheb Al Magaes, Al Abageyah, El-Khalifa, Cairo Governorate, Egypt",
+      "lat":31.2643464,
+      "types":[
+         "tourist_attraction",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ9ffsdVY_WBQRgvIlhyibHTs"
+   },
+   {
+      "name":"Prince Mohamed Ali Palace (Al Manial Palace)",
+      "formatted_address":"1 السرايا, Old Cairo, Cairo Governorate, Egypt",
+      "lat":31.230013,
+      "types":[
+         "tourist_attraction",
+         "museum",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJmzFzaTJHWBQRnYC7wOdZtis"
+   },
+   {
+      "name":"Mosque of Muhammad Ali",
+      "formatted_address":"Al Abageyah, El-Khalifa, Cairo Governorate, Egypt",
+      "lat":31.25991059999999,
+      "types":[
+         "mosque",
+         "tourist_attraction",
+         "place_of_worship",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJn1b3gKpAWBQRbsg1WfPe1NA"
+   },
+   {
+      "name":"Bon Voyage",
+      "formatted_address":"16 Adly, Al Fawalah, Abdeen, Cairo Governorate, Egypt",
+      "lat":31.244439,
+      "types":[
+         "tourist_attraction",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJJZ3TEL5AWBQRc-PhG_sO-S0"
+   },
+   {
+      "name":"Hazem Hasan",
+      "formatted_address":"Al Montazah, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.31917989999999,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJv37FfCg-WBQRq7OZgGNt3R8"
+   },
+   {
+      "name":"Neesh & Dawood El Ogeel",
+      "formatted_address":"5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate 11341, Egypt",
+      "lat":31.3184973,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJDbGGjCg-WBQRDInYVyLSt3Y"
+   },
+   {
+      "name":"The Egyptian Museum",
+      "formatted_address":"شارع ماريت باشا، ميدان التحرير، Egypt",
+      "lat":31.23361389999999,
+      "types":[
+         "museum",
+         "tourist_attraction",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJw741VYhBWBQRD2Z6OiulDVI"
+   },
+   {
+      "name":"Hossam Ahmed Workshop",
+      "formatted_address":"القاهرة, سراى القبة، Egypt",
+      "lat":31.318795,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJY6QIjig-WBQR2UjpQT5qM_0"
+   },
+   {
+      "name":"Ramez Youssef",
+      "formatted_address":"5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate 11341, Egypt",
+      "lat":31.3179951,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJk1OX9ig-WBQRtPjhhqs5Gnw"
+   },
+   {
+      "name":"Gedo Hussein",
+      "formatted_address":"11, ش Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.318829,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJp-gDECY-WBQRdsGKwym0WCc"
+   },
+   {
+      "name":"بيت محمد علي - Mohamed Ali home",
+      "formatted_address":"8 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate 11757, Egypt",
+      "lat":31.3189222,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJG7oBHJU_WBQRefAYNXZGCa0"
+   },
+   {
+      "name":"Imola",
+      "formatted_address":"7 ش ابراهيم اللقانى، مصر الجديدة، القاهرة، Cairo Governorate, Egypt",
+      "lat":31.3189074,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ73BFjig-WBQRcK8QimBgZH4"
+   },
+   {
+      "name":"ماسوتى",
+      "formatted_address":"8 Ibrahim Al Lakani, Al Matar, El Nozha, Cairo Governorate, Egypt",
+      "lat":31.3189222,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJa9VGjig-WBQRHp4qBSKF4do"
+   },
+   {
+      "name":"Heliopolis Sporting Club (HSC)",
+      "formatted_address":"17 El-Sayed El-Marghany, Mansheya El-Bakry, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3164398,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJB9zy8B4-WBQRz_zRpJte8sA"
+   },
+   {
+      "name":"Sigma Marketing Co.",
+      "formatted_address":"11 ش سليمان باشا، El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3183213,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ1edq7Sg-WBQRkU-1FSRcxEc"
+   },
+   {
+      "name":"SDLC - Shiemy Derma & Laser Clinic",
+      "formatted_address":"1 Soliman Passage, Off El Mamalik St, Cairo Governorate, Egypt",
+      "lat":31.318644,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJPzSdh8E_WBQRdDouwD3xnKM"
+   },
+   {
+      "name":"عيادة دكتور محمد خالد عليوة مخ و اعصاب و قسطرة مخية",
+      "formatted_address":"13 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3187961,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ0-QBjig-WBQRrQywi1emIZM"
+   },
+   {
+      "name":"Golden Man House",
+      "formatted_address":"7 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3183744,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJgVVSiyg-WBQRI80oj6N7xzE"
+   },
+   {
+      "name":"Sherouk",
+      "formatted_address":"5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate 11341, Egypt",
+      "lat":31.3180648,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJZacF8ig-WBQRoKWXoCzQwjc"
+   },
+   {
+      "name":"مـعـز للملابس",
+      "formatted_address":"7 ش أبراهيم اللقانى - ش سليمان باشا- مصر الجديدة، 11599, Egypt",
+      "lat":31.3183744,
+      "types":[
+         "point_of_interest",
+         "clothing_store",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJi8iC8yg-WBQRqeIzO3lNKzc"
+   },
+   {
+      "name":"مقر الطريقة الرضوانية الخلوتية",
+      "formatted_address":"2 Soliman Basha, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3184814,
+      "types":[
+         "school",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ8dRYqJI_WBQRak0KTM4aHAg"
+   },
+   {
+      "name":"Alzayat Law Firm",
+      "formatted_address":"9 b Al Selhdar , heliopolis, Cairo government ,Egypt.، Cairo Governorate 11757, Egypt",
+      "lat":31.317721,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJOSxG3Sg-WBQRgDsKyYV0mic"
+   },
+   {
+      "name":"أستاذ دكتور محمد حبيب",
+      "formatted_address":"5 off ibrahim el laqqany st.، El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3183093,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJp-gDECY-WBQRfL88LlUX6qo"
+   },
+   {
+      "name":"Mohamed We Hossain",
+      "formatted_address":"Al Montazah, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3186649,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJtUY3jCg-WBQRDkuzFOGsiY8"
+   },
+   {
+      "name":"Orfanta",
+      "formatted_address":"Al Montazah, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3179834,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJ54L18Sg-WBQRkctfDJm6Q4Y"
+   },
+   {
+      "name":"OUT Productions",
+      "formatted_address":"3 Soliman Basha El Sayeed, street, Heliopolis Square, Cairo Governorate, Egypt",
+      "lat":31.3376101,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJjVbA7DkVWBQRVCgRuP0Uiuk"
+   },
+   {
+      "name":"دكتور عاصم منير",
+      "formatted_address":"1 ش سليمان باشا متفرع من شارع ابراهيم اللقاني روكسي 55 EG, Egypt",
+      "lat":31.3185899,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJTwXZbEo_WBQR7sfWEd9TMqc"
+   },
+   {
+      "name":"El Nada Center",
+      "formatted_address":"ش Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3180504,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJ_9bm8yg-WBQRd_qBctarxrU"
+   },
+   {
+      "name":"مقهي شارع دمشق الشعبيه",
+      "formatted_address":"5 Dmshek, المنتزه، مصر الجديدة، محافظة القاهرة‬،، Egypt",
+      "lat":31.3188353,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJp0qpev0_WBQRFWFSV2Y0eIc"
+   },
+   {
+      "name":"Abou Haidar Shawerma",
+      "formatted_address":"el korba، Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3186988,
+      "types":[
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJJ1IRmig-WBQRQ6GlANLovCQ"
+   },
+   {
+      "name":"Just SBR",
+      "formatted_address":"ibrahem Ellakany، 5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3181676,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJSyEykK8_WBQRXI3wZ5nlIdk"
+   },
+   {
+      "name":"دكتور على إبراهيم",
+      "formatted_address":"1 سليمان باشا, مصر الجديدة - ناصيه بى تك خلف جروبى وابو حيدر 63 EG, Egypt",
+      "lat":31.3185913,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJWz73otA_WBQRWWs5gyaz6JY"
+   },
+   {
+      "name":"مكتب رعاية طبية ا/محمد ذكي",
+      "formatted_address":"7 Soliman Basha, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3181068,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJRQAw7Cg-WBQRopaY-u9t-kg"
+   },
+   {
+      "name":"O'smanly café",
+      "formatted_address":"7 Soliman Basha, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3184977,
+      "types":[
+         "cafe",
+         "food",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJTdm3X1U_WBQRhwJ1bQGENlY"
+   },
+   {
+      "name":"Soher Alfons Barsom",
+      "formatted_address":"5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate 11341, Egypt",
+      "lat":31.31803469999999,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJj58c8ig-WBQRVn1wb6t8qOs"
+   },
+   {
+      "name":"Dr. Mohamed Farid",
+      "formatted_address":"7 ش ابراهيم اللقانى، El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3186801,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJb5sLjCg-WBQRMyiruuV0f1Y"
+   },
+   {
+      "name":"Adel El Ogail",
+      "formatted_address":"Al Montazah, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3187542,
+      "types":[
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJjRESjig-WBQRrIsX3tebx78"
+   },
+   {
+      "name":"El Khashab Twins",
+      "formatted_address":"5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate 11341, Egypt",
+      "lat":31.3187027,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJUWE3jCg-WBQRc3plk6--zTQ"
+   },
+   {
+      "name":"Banque Du Caire",
+      "formatted_address":"10 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3186703,
+      "types":[
+         "bank",
+         "finance",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJp-gDECY-WBQRXKwdNUh0O-A"
+   },
+   {
+      "name":"Kholkhal",
+      "formatted_address":"10 ibrahim el laqqany st.، El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3190576,
+      "types":[
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJCdVeiCg-WBQR_lWyhMMgl-A"
+   },
+   {
+      "name":"CAI MED",
+      "formatted_address":"El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3185913,
+      "types":[
+         "hospital",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJkRMHkyg-WBQRJ2v-JZuhhA8"
+   },
+   {
+      "name":"Top Fashion",
+      "formatted_address":"5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3180736,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJ9Qcj9Cg-WBQRcevmb6CzPAs"
+   },
+   {
+      "name":"Miver",
+      "formatted_address":"15 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3188995,
+      "types":[
+         "point_of_interest",
+         "clothing_store",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJaWVQkCg-WBQRlmJpMYnc7Sw"
+   },
+   {
+      "name":"Baron Hotel Heliopolis",
+      "formatted_address":"14 Al Baroon, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3314609,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJUbVOACI-WBQRWsi5B7gYfxs"
+   },
+   {
+      "name":"دكتور محمد عمر",
+      "formatted_address":"1 سليمان باشا, مصر الجديدة - ناصيه بى تك خلف جروبى وابو حيدر EG, Egypt",
+      "lat":31.3185913,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJsx86Mjw_WBQRVtvrW664Xh8"
+   },
+   {
+      "name":"Nour",
+      "formatted_address":"5 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate 11341, Egypt",
+      "lat":31.3183744,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJl_GU9Cg-WBQR-LBPFn8ynVM"
+   },
+   {
+      "name":"Karim and Halim",
+      "formatted_address":"1 Damascus, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3183744,
+      "types":[
+         "point_of_interest",
+         "clothing_store",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJvaCU9Cg-WBQRXQ548495Nyg"
+   },
+   {
+      "name":"Carina",
+      "formatted_address":"Ibrahim, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3193922,
+      "types":[
+         "point_of_interest",
+         "clothing_store",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJ_SYogSg-WBQR-aCtBPeQBT8"
+   },
+   {
+      "name":"دكتور وائل عزت",
+      "formatted_address":"1 ش سليمان باشا متفرع من شارع ابراهيم اللقاني روكسي 55 EG, Egypt",
+      "lat":31.3185899,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ98DvHc8_WBQRdYnZqPtDl7E"
+   },
+   {
+      "name":"Ahmed Taher Bolin",
+      "formatted_address":"3 Al Lokanda, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3188995,
+      "types":[
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJKSlQkCg-WBQR1X_yc7Fqzu4"
+   },
+   {
+      "name":"نتوار",
+      "formatted_address":"13شارع أبراهيم اللقاني روكسي، Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3188337,
+      "types":[
+         "point_of_interest",
+         "clothing_store",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJvy14J-g_WBQRBzA6S3HhBCs"
+   },
+   {
+      "name":"Dr. Mahmoud Taher El Mougy",
+      "formatted_address":"7 Ibrahim El Laqqany st.، El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.31844499999999,
+      "types":[
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ-8lTiyg-WBQR9KaRRQjPoeA"
+   },
+   {
+      "name":"Losha",
+      "formatted_address":"Al Montazah, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3187542,
+      "types":[
+         "clothing_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJs1IXjig-WBQR3EOMlxnC5hc"
+   },
+   {
+      "name":"مصر لتأمينات الحياة فرع روكسي",
+      "formatted_address":"3 إبراهيم اللقاني، المنتزه، قسم مصر الجديدة، محافظة القاهرة‬،، Egypt",
+      "lat":31.3178359,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJUVf_yKk_WBQRUYDZmi5p6iU"
+   },
+   {
+      "name":"حمدي شعلان",
+      "formatted_address":"7 سليمان باشا، المنتزه، قسم مصر الجديدة،، Cairo Governorate, Egypt",
+      "lat":31.3184421,
+      "types":[
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJYYfP_LY_WBQRQ8mDYK362ZA"
+   },
+   {
+      "name":"B.TECH - Roxy",
+      "formatted_address":"إيديال - روكسي، 17 ش Ibrahim Al Lakani, Egypt",
+      "lat":31.31907,
+      "types":[
+         "electronics_store",
+         "home_goods_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJwaqCkCg-WBQRjBSq_o-mYT4"
+   },
+   {
+      "name":"طوكيو أوبشن",
+      "formatted_address":"روكسى ٢١ شارع دمشق امام مدرسه الكواكب قسم مصر الجديدة،، Cairo Governorate, Egypt",
+      "lat":31.3180504,
+      "types":[
+         "car_repair",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJ3wcboTg_WBQROW-7NGyd-rA"
+   },
+   {
+      "name":"دكتورة إيمان السيد",
+      "formatted_address":"1 سليمان باشا, مصر الجديدة - ناصيه بى تك خلف جروبى وابو حيدر EG, Egypt",
+      "lat":31.3185913,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ0_xe2IA_WBQR3Begbo1euog"
+   },
+   {
+      "name":"Child World",
+      "formatted_address":"9 Ibrahim Al Lakani, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":31.3186649,
+      "types":[
+         "point_of_interest",
+         "clothing_store",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJmTE3jCg-WBQRmaK8RjQG5Lg"
+   }
+]

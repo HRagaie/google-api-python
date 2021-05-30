@@ -1,0 +1,752 @@
+[
+    {
+        "name": "Merryland Park",
+        "formatted_address": "El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.0979257,
+        "lng": 31.3189812,
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJH9vwOoYVWBQR90_jkGUJbSU"
+    },
+    {
+        "name": "Ittihadia Palace",
+        "formatted_address": "Al Nadi، El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.0888643,
+        "lng": 31.3193929,
+        "types": [
+            "tourist_attraction",
+            "premise",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJuftqUS8-WBQRtM7fDk0QcPk"
+    },
+    {
+        "name": "The Child Museum",
+        "formatted_address": "34 Abou Bakr El-Sedeek, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.1022381,
+        "lng": 31.33694599999999,
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJz-2ngvIVWBQR0usMZT-HkR8"
+    },
+    {
+        "name": "Baron Empain Palace",
+        "formatted_address": "El-Orouba, El-Montaza, Heliopolis, Cairo Governorate 11757, Egypt",
+        "lat": 30.0866701,
+        "lng": 31.3303332,
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ1_GM8iE-WBQRLNVi-RT7vDA"
+    },
+    {
+        "name": "Panorama October",
+        "formatted_address": "Salah Salem St, Al Estad, Nasr City, Cairo Governorate, Egypt",
+        "lat": 30.0742728,
+        "lng": 31.3068068,
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJmxmkHLU_WBQRzBYJ5_3_jo8"
+    },
+    {
+        "name": "The International Park",
+        "formatted_address": "طريق العباس العقاد،، Nasr City, Cairo Governorate, Egypt",
+        "lat": 30.0495526,
+        "lng": 31.33651029999999,
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJW8mw1W4-WBQRD3MC3Akl1g4"
+    },
+    {
+        "name": "Our Lady of Heliopolis Co-Cathedral",
+        "formatted_address": "Nazih Khalifa crossroad، Al Ahram, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.0935707,
+        "lng": 31.3251828,
+        "types": [
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJJdgh-okVWBQR5TqTmKuQ0IM"
+    },
+    {
+        "name": "Khan el-Khalili",
+        "formatted_address": "El-Gamaleya, El Gamaliya, Cairo Governorate, Egypt",
+        "lat": 30.0477386,
+        "lng": 31.2622538,
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJD1gOLOtAWBQREX0CYeTgYRc"
+    },
+    {
+        "name": "Cairo Tower",
+        "formatted_address": "Zamalek, Cairo Governorate, Egypt",
+        "lat": 30.045915,
+        "lng": 31.2242898,
+        "types": [
+            "tourist_attraction",
+            "premise",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJpVgdqJpAWBQR_tZY0ny_5mw"
+    },
+    {
+        "name": "The Egyptian Museum",
+        "formatted_address": "شارع ماريت باشا، ميدان التحرير، Egypt",
+        "lat": 30.0475781,
+        "lng": 31.23361389999999,
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJw741VYhBWBQRD2Z6OiulDVI"
+    },
+    {
+        "name": "الكاتدرائية المرقسية بالعباسية",
+        "formatted_address": "222 Ramses, El-Demerdash, Al Waili, Cairo Governorate, Egypt",
+        "lat": 30.0723123,
+        "lng": 31.2751707,
+        "types": [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJyT6K35o_WBQRbPkqnilswVY"
+    },
+    {
+        "name": "Orman Botanical Garden",
+        "formatted_address": "ميدان, Giza St, Oula, Giza District, Giza Governorate, Egypt",
+        "lat": 30.0290398,
+        "lng": 31.2129736,
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJF3XGeddGWBQRijAtgtlQKbM"
+    },
+    {
+        "name": "Hadiqet El Tefl",
+        "formatted_address": "Makram Ebeid, Al Manteqah as Sadesah, Qesm Than Madinet Nasr, Cairo Governorate, Egypt",
+        "lat": 30.0618623,
+        "lng": 31.3472858,
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJjQDUDN09WBQREn_ZpkAOsvI"
+    },
+    {
+        "name": "Family Park",
+        "formatted_address": "مدخل الرحاب 2 ) الكيلو 26،، Suez Rd, Egypt",
+        "lat": 30.0802783,
+        "lng": 31.5013244,
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ97tx7voYWBQR-q4kFfGwYYo"
+    },
+    {
+        "name": "Giza Necropolis",
+        "formatted_address": "Al Haram, Giza Governorate, Egypt",
+        "lat": 29.9772962,
+        "lng": 31.1324955,
+        "types": [
+            "tourist_attraction",
+            "premise",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJzbs54n1PWBQRizZuWjV0dMo"
+    },
+    {
+        "name": "City Of The Dead Cairo Egypt",
+        "formatted_address": "7 Branshed from Al Soultan Ahmed, El-Darb El-Ahmar, Monsha'et Nasser, Cairo Governorate, Egypt",
+        "lat": 30.0419056,
+        "lng": 31.2711363,
+        "types": [
+            "cemetery",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJIY_lPV0_WBQRaXOozrZK_Lw"
+    },
+    {
+        "name": "Salah Al-Din Al-Ayoubi Castle, Salah Salem Street, Cairo",
+        "formatted_address": "Salah Salem St, Al Abageyah, El-Khalifa, Cairo Governorate, Egypt",
+        "lat": 30.0290436,
+        "lng": 31.2594688,
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJY-3CkKxAWBQRby736eSW2y8"
+    },
+    {
+        "name": "Le Passage Cairo Hotel & Casino",
+        "formatted_address": "Sheraton Al Matar, El Nozha, Cairo Governorate 11861, Egypt",
+        "lat": 30.1224496,
+        "lng": 31.4005995,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ756gegIXWBQRvIob1vsKaiU"
+    },
+    {
+        "name": "Great Sphinx of Giza",
+        "formatted_address": "Al Giza Desert, Giza Governorate, Egypt",
+        "lat": 29.9752687,
+        "lng": 31.1375674,
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJeamuo2JPWBQRqb1mQKbw08k"
+    },
+    {
+        "name": "International Bowling Center",
+        "formatted_address": "Passage Inside Stadium, Al Estad, Nasr City, Cairo Governorate, Egypt",
+        "lat": 30.0730864,
+        "lng": 31.3083181,
+        "types": [
+            "bowling_alley",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJCf6VzLQ_WBQRzZIeycb18m4"
+    },
+    {
+        "name": "St Sergius and St Bacchus Church",
+        "formatted_address": "Mari Gerges, Kom Ghorab, Old Cairo, Cairo Governorate, Egypt",
+        "lat": 30.006279,
+        "lng": 31.2306747,
+        "types": [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJl80F-RBHWBQRtcmwX6mTFd0"
+    },
+    {
+        "name": "Saint Mary Church - Ard El-Golf",
+        "formatted_address": "Shams Al Din Al Zahabi, Al Golf, Nasr City, Cairo Governorate, Egypt",
+        "lat": 30.0825805,
+        "lng": 31.33328239999999,
+        "types": [
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJz961RBg-WBQR2HK25harflQ"
+    },
+    {
+        "name": "Golden Park Hotel",
+        "formatted_address": "شارع الحجاز ، مصر الجديده، 221 شارع الحجاز ، هيليوبوليس ،، El Nozha, Cairo Governorate, Egypt",
+        "lat": 30.1153686,
+        "lng": 31.3525102,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJsQQdRNgVWBQRss6fVxNFk_8"
+    },
+    {
+        "name": "Baron Hotel Heliopolis",
+        "formatted_address": "14 Al Baroon, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.0860748,
+        "lng": 31.3314609,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJUbVOACI-WBQRWsi5B7gYfxs"
+    },
+    {
+        "name": "Radisson Blu Hotel, Cairo Heliopolis",
+        "formatted_address": "Abdel Hamid Badawi St Heliopolis, Cairo Governorate 11787, Egypt",
+        "lat": 30.1065093,
+        "lng": 31.3753121,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJQZJ8fWUWWBQRAUPO9I6SxPg"
+    },
+    {
+        "name": "The Great Pyramid of Giza",
+        "formatted_address": "Al Haram, Nazlet El-Semman, Al Giza Desert, Giza Governorate, Egypt",
+        "lat": 29.9792345,
+        "lng": 31.1342019,
+        "types": [
+            "tourist_attraction",
+            "premise",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJGymPrIdFWBQRJCSloj8vDIE"
+    },
+    {
+        "name": "Abu Dhabi Islamic Bank - ADIB Egypt - مصرف أبو ظبي الإسلامي",
+        "formatted_address": "Merry land, 29 El-Andalus, El-Montaza, Heliopolis, Cairo Governorate 11341, Egypt",
+        "lat": 30.0997716,
+        "lng": 31.3180705,
+        "types": [
+            "bank",
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJhWxkcIYVWBQRncLaxsVdp5k"
+    },
+    {
+        "name": "Post Office - West Heliopolis",
+        "formatted_address": "El-Nozha, El Nozha, Cairo Governorate, Egypt",
+        "lat": 30.1036179,
+        "lng": 31.33018539999999,
+        "types": [
+            "post_office",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ-1tRxpIVWBQR8pyCMmqAgXM"
+    },
+    {
+        "name": "Dream Park",
+        "formatted_address": "El Wahat Road, Entrance 1, Giza Governorate, Egypt",
+        "lat": 29.9647311,
+        "lng": 31.0576601,
+        "types": [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJEcjj8EdQWBQRD0GFkQ9ICHI"
+    },
+    {
+        "name": "Heliopolis Towers Hotel",
+        "formatted_address": "El Shaheed Sayed Zakaria, Sheraton Al Matar, El Nozha, Cairo Governorate 11736, Egypt",
+        "lat": 30.1074763,
+        "lng": 31.3661798,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJZ9p3820WWBQRmZh2M_MSzOQ"
+    },
+    {
+        "name": "Citystars Heliopolis",
+        "formatted_address": "Citystars, Cairo Governorate 11771, Egypt",
+        "lat": 30.0728734,
+        "lng": 31.3458082,
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJo0ecE_gVWBQRGGrouhZFdME"
+    },
+    {
+        "name": "Triumph Plaza Hotel",
+        "formatted_address": "Intersection Of Ihsan Abdel Kodous St. with, El-Khalifa El-Maamoun, st, Cairo Governorate 11757, Egypt",
+        "lat": 30.0864639,
+        "lng": 31.3060439,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJdQaFc80_WBQRaTzpSBv1-BQ"
+    },
+    {
+        "name": "Pyramid of Djoser",
+        "formatted_address": "Al Giza Desert, Giza Governorate, Egypt",
+        "lat": 29.8713227,
+        "lng": 31.216543,
+        "types": [
+            "tourist_attraction",
+            "premise",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJgVyyU9VLWBQRnfi--qd3xQg"
+    },
+    {
+        "name": "Porto Heliopolis",
+        "formatted_address": "Almazah, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.0827031,
+        "lng": 31.348709,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJR5FCXgE-WBQR471eyuZuvGw"
+    },
+    {
+        "name": "Hotel Beirut",
+        "formatted_address": "56 Beirut, Almazah, Heliopolis, Cairo Governorate 11519, Egypt",
+        "lat": 30.09319,
+        "lng": 31.327637,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJPxK_KooVWBQRDq1YN-MMeNg"
+    },
+    {
+        "name": "Gravity Code",
+        "formatted_address": "3 Skies Plaza، S Teseen, Cairo Governorate 11835, Egypt",
+        "lat": 30.0264508,
+        "lng": 31.4957593,
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJIQzLG14iWBQRFkNY6eyu_mE"
+    },
+    {
+        "name": "InterContinental Citystars Cairo, an IHG Hotel",
+        "formatted_address": "Omar Ibn El Khattab، Street، Cairo Governorate 11737, Egypt",
+        "lat": 30.0724583,
+        "lng": 31.3478955,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJJYCniw4-WBQRDaNySSZ_iuI"
+    },
+    {
+        "name": "Amplifon - Heliopolis",
+        "formatted_address": "43 Nabil El Wakkad Street in front of Bon Appetit Restaurant, Ard El Golf, Cairo Governorate, Egypt",
+        "lat": 30.0811291,
+        "lng": 31.3356159,
+        "types": [
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJ_79mlRk-WBQRtjsV9CB-zuA"
+    },
+    {
+        "name": "Le Méridien Cairo Airport",
+        "formatted_address": "Cairo International Airport, To Terminal 3, Sheraton Al Matar, El Nozha, Cairo Governorate, Egypt",
+        "lat": 30.1136885,
+        "lng": 31.3958383,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJk_r-wlUWWBQRUaLZUEzSVQg"
+    },
+    {
+        "name": "1920s Boutique Hotel & Restaurants",
+        "formatted_address": "58 Beirut, Street, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.092922,
+        "lng": 31.328174,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJmVoMY4oVWBQRJ1c9kfGEEKo"
+    },
+    {
+        "name": "Hilton Cairo Heliopolis",
+        "formatted_address": "El-Orouba, Sheraton Al Matar, El Nozha, Cairo Governorate, Egypt",
+        "lat": 30.1067298,
+        "lng": 31.3646213,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJUYFpLCELRRQRzCxbUHFt6Vs"
+    },
+    {
+        "name": "Holiday Inn Cairo - Citystars",
+        "formatted_address": "Ali Rashed Street Heliopolis, Cairo Governorate 11757, Egypt",
+        "lat": 30.0741245,
+        "lng": 31.3438399,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJw0Sx6OxAWBQRac0KOAYXiEo"
+    },
+    {
+        "name": "Tolip El Galaa Hotel Cairo",
+        "formatted_address": "40 El-Orouba, Almazah, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.0942342,
+        "lng": 31.3365107,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ3xXIG_QVWBQRB-h-devYyD0"
+    },
+    {
+        "name": "Cairo International Airport",
+        "formatted_address": "Oruba، Road، El Nozha, Cairo Governorate, Egypt",
+        "lat": 30.1128268,
+        "lng": 31.3997904,
+        "types": [
+            "airport",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJQU-oLggXWBQRhhPiUSGvZeA"
+    },
+    {
+        "name": "Hotel Concorde El Salam Cairo By Royal Tulip",
+        "formatted_address": "69 Abd El-Hameed Badawi, St، El Nozha, Cairo Governorate, Egypt",
+        "lat": 30.1237847,
+        "lng": 31.3480627,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ3b5I-fUVWBQRVG_oX-wQmZE"
+    },
+    {
+        "name": "Sha'ar Hashamayim Synagogue",
+        "formatted_address": "18 شارع عدلي، الفوالة، عابدين، محافظة القاهرة‬،، Egypt",
+        "lat": 30.0513775,
+        "lng": 31.2436791,
+        "types": [
+            "synagogue",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJDVLmR6hBWBQR6vKEPq4Bl6M"
+    },
+    {
+        "name": "JW Marriott Hotel Cairo",
+        "formatted_address": "Mirage City, Ring Rd, Second New Cairo, Cairo Governorate 11757, Egypt",
+        "lat": 30.0719258,
+        "lng": 31.434406,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ7x-mqic-WBQRN-Ml0uWwRcI"
+    },
+    {
+        "name": "Pyramid of Khafre",
+        "formatted_address": "Al Haram, Giza Governorate, Egypt",
+        "lat": 29.9757265,
+        "lng": 31.1308001,
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJO6TPdX5PWBQRkC1MF1gAvsE"
+    },
+    {
+        "name": "Travel To Egypt",
+        "formatted_address": "32 Talaat Harb, Marouf, Abdeen, Cairo Governorate 11311, Egypt",
+        "lat": 30.0508808,
+        "lng": 31.2403699,
+        "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ_4oj44NBWBQR4eRohd7BqVU"
+    },
+    {
+        "name": "Amplifon",
+        "formatted_address": "43 ش نبيل الوقاد، Ganayen Al Waileyah, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.0705893,
+        "lng": 31.2749167,
+        "types": [
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJAUYORZs_WBQRwR3Rn8fi_wQ"
+    },
+    {
+        "name": "Mastabat al-Fir'aun",
+        "formatted_address": "Al Omraneyah, Giza Governorate, Egypt",
+        "lat": 29.8390054,
+        "lng": 31.2152649,
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJz2CHF61LWBQRg9RDCE11KuY"
+    },
+    {
+        "name": "IDP Education & IELTS Testing - Cairo",
+        "formatted_address": "31 Omar Bekir St off Othman Ibn Afan St, Othman Ibn Affan, Nozha, Cairo Governorate 11361, Egypt",
+        "lat": 30.10399,
+        "lng": 31.348553,
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJYWJmM-EVWBQRsRn2yOGljFo"
+    },
+    {
+        "name": "Red Pyramid",
+        "formatted_address": "Red Pyramid, Al Giza Desert, Giza Governorate, Egypt",
+        "lat": 29.80859469999999,
+        "lng": 31.2066131,
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJyXTcJCNLWBQR3d_j4GP4zfE"
+    },
+    {
+        "name": "دار ضباط حرس الحدود",
+        "formatted_address": "Passage Inside Arabian Industrializatio, Sheraton Al Matar, El Nozha, Cairo Governorate, Egypt",
+        "lat": 30.0833732,
+        "lng": 31.3801825,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJDYCRfiEWWBQRp-YgZb5e4yA"
+    },
+    {
+        "name": "Bent Pyramid",
+        "formatted_address": "Al Giza Desert, Giza Governorate, Egypt",
+        "lat": 29.7904488,
+        "lng": 31.2093244,
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJTdpKM9O0WRQRlby9z6sQTWs"
+    },
+    {
+        "name": "Pyramid of Djedefre",
+        "formatted_address": "Al Giza Desert, Giza Governorate, Egypt",
+        "lat": 30.0322618,
+        "lng": 31.0747136,
+        "types": [
+            "tourist_attraction",
+            "premise",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJBWZXxtVaWBQRDxOvOoqsmaE"
+    },
+    {
+        "name": "Renaissance Cairo Mirage City Hotel",
+        "formatted_address": "Mirage City, Ring Rd, Second New Cairo, Cairo Governorate 11757, Egypt",
+        "lat": 30.0746207,
+        "lng": 31.4395183,
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ907IPMZAWBQRFcPpkzr_VuI"
+    },
+    {
+        "name": "مسجد",
+        "formatted_address": "غرب الرشاح، بركة النصر، قسم السلام،، محافظة القاهرة‬،، Egypt",
+        "lat": 30.1474623,
+        "lng": 31.3903189,
+        "types": [
+            "mosque",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJceXYKUEXWBQRSkFj8rq8v2c"
+    },
+    {
+        "name": "McDonald's Merghany",
+        "formatted_address": "110, Merghani, 110 Al Merghani, St, Heliopolis, Cairo Governorate, Egypt",
+        "lat": 30.08742,
+        "lng": 31.334673,
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJlZQvbyc-WBQR-Rxu40GPFq8"
+    },
+    {
+        "name": "Karnak - Egypt Air Tourism & Duty Free",
+        "formatted_address": "12 Kasr Al Nile, St، DOWNTOWN، Cairo Governorate 11513, Egypt",
+        "lat": 30.0475188,
+        "lng": 31.2375527,
+        "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJnQo4x89AWBQRQGwSfHxzetM"
+    }
+]

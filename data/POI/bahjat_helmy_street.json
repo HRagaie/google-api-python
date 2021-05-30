@@ -1,0 +1,714 @@
+[
+   {
+      "name":"Ittihadia Palace",
+      "formatted_address":"Al Nadi، El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0888643,
+      "lng":31.3193929,
+      "types":[
+         "tourist_attraction",
+         "premise",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJuftqUS8-WBQRtM7fDk0QcPk"
+   },
+   {
+      "name":"Baron Empain Palace",
+      "formatted_address":"El-Orouba, El-Montaza, Heliopolis, Cairo Governorate 11757, Egypt",
+      "lat":30.0866701,
+      "lng":31.3303332,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ1_GM8iE-WBQRLNVi-RT7vDA"
+   },
+   {
+      "name":"The Child Museum",
+      "formatted_address":"34 Abou Bakr El-Sedeek, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1022381,
+      "lng":31.33694599999999,
+      "types":[
+         "tourist_attraction",
+         "museum",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJz-2ngvIVWBQR0usMZT-HkR8"
+   },
+   {
+      "name":"Our Lady of Heliopolis Co-Cathedral",
+      "formatted_address":"Nazih Khalifa crossroad، Al Ahram, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0935707,
+      "lng":31.3251828,
+      "types":[
+         "church",
+         "place_of_worship",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJJdgh-okVWBQR5TqTmKuQ0IM"
+   },
+   {
+      "name":"The Egyptian Museum",
+      "formatted_address":"شارع ماريت باشا، ميدان التحرير، Egypt",
+      "lat":30.0475781,
+      "lng":31.23361389999999,
+      "types":[
+         "museum",
+         "tourist_attraction",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJw741VYhBWBQRD2Z6OiulDVI"
+   },
+   {
+      "name":"Mostafa Habib",
+      "formatted_address":"46 off haroun el rashid st.، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10008089999999,
+      "lng":31.3317705,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJNQgnOY0VWBQRHK9Csg6EtzI"
+   },
+   {
+      "name":"Khairy Yousef",
+      "formatted_address":"Al Bustan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0990363,
+      "lng":31.3314747,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJM9p9KvMVWBQRXZ1qP8WSW9U"
+   },
+   {
+      "name":"Hassen Kala",
+      "formatted_address":"Al Bustan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0995791,
+      "lng":31.3301935,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJcZ5OIY0VWBQRRP3_aPr0yTE"
+   },
+   {
+      "name":"Shabanah",
+      "formatted_address":"Al Bustan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0990422,
+      "lng":31.3306232,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJjRdo14wVWBQRdEOkLjj9ve8"
+   },
+   {
+      "name":"Manyla",
+      "formatted_address":"Al Bustan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0973548,
+      "lng":31.3332613,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJrRbfEvMVWBQRpIBKBYxq5fw"
+   },
+   {
+      "name":"Yeheya Zakarey",
+      "formatted_address":"54 Haroun El-Rashid, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0997408,
+      "lng":31.3315786,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJdwPHzfIVWBQRQaZc4YEhJI4"
+   },
+   {
+      "name":"Shafiq Ahmed & Co.",
+      "formatted_address":"20 ش هارون الرشيد، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10008089999999,
+      "lng":31.3317705,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJMbYPyfIVWBQRPtb5K2cYQqk"
+   },
+   {
+      "name":"مدرسة راهبات نوتردام ديزابوتر للغات",
+      "formatted_address":"3 Bahgat Helmy, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0986255,
+      "lng":31.3321081,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ6XNsJvMVWBQR4HXkgQYOGaA"
+   },
+   {
+      "name":"Femi Care",
+      "formatted_address":"٥ Omar Ibn El-Khattab, Al Matar, El Nozha, Cairo Governorate, Egypt",
+      "lat":30.100156,
+      "lng":31.3327804,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJbbd2lfIVWBQRL3j-UY2-jsY"
+   },
+   {
+      "name":"Giza Necropolis",
+      "formatted_address":"Al Haram, Giza Governorate, Egypt",
+      "lat":29.9772962,
+      "lng":31.1324955,
+      "types":[
+         "tourist_attraction",
+         "premise",
+         "museum",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJzbs54n1PWBQRizZuWjV0dMo"
+   },
+   {
+      "name":"MediGroup BTL EGYPT",
+      "formatted_address":"9 Combez, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0980878,
+      "lng":31.3326854,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ-VtqTOcVWBQRepwGUt8nDxY"
+   },
+   {
+      "name":"Joumana",
+      "formatted_address":"57 haroun el rashid st، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.099566,
+      "lng":31.331334,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ_QWWbhIVWBQR08CNERIY2zM"
+   },
+   {
+      "name":"El Amal",
+      "formatted_address":"Al Bustan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1004231,
+      "lng":31.3312922,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJj6RUtfIVWBQRU0moj6r3cCo"
+   },
+   {
+      "name":"Saber Jewelry",
+      "formatted_address":"22 haroun el rashid st.، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10008089999999,
+      "lng":31.3317705,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ_QWWbhIVWBQRcxGt4NGEQSA"
+   },
+   {
+      "name":"Balcon Heliopolis",
+      "formatted_address":"26 Sohag, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0994071,
+      "lng":31.3324821,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJVQnP3PIVWBQR-BFcoaXdkc0"
+   },
+   {
+      "name":"Maged Milad Jewelry",
+      "formatted_address":"50 haroun el rashid st.، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1003342,
+      "lng":31.3317781,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ_QWWbhIVWBQRAGcAljv1JD4"
+   },
+   {
+      "name":"Magdy El Attar",
+      "formatted_address":"22 haroun el rashid st.، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10008089999999,
+      "lng":31.3317705,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ_QWWbhIVWBQRCqT8DclSfWk"
+   },
+   {
+      "name":"Porto Heliopolis",
+      "formatted_address":"Almazah, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0827031,
+      "lng":31.348709,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJR5FCXgE-WBQR471eyuZuvGw"
+   },
+   {
+      "name":"الدكتور محمد شلقامى",
+      "formatted_address":"شارع Bahgat Helmy, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0987372,
+      "lng":31.3320063,
+      "types":[
+         "doctor",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ6RoqJvMVWBQRDNTWiYz4UbE"
+   },
+   {
+      "name":"Maadi Island",
+      "formatted_address":"Dar Al Salam, Giza Governorate, Egypt",
+      "lat":29.965527,
+      "lng":31.239237,
+      "types":[
+         "restaurant",
+         "tourist_attraction",
+         "park",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJwY7d5MFHWBQRl1nMXlW_tUY"
+   },
+   {
+      "name":"Sadeq Silver",
+      "formatted_address":"4 haroun el rashid st.، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10008089999999,
+      "lng":31.3317705,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ_QWWbhIVWBQR1Uwte9huXew"
+   },
+   {
+      "name":"Future Products",
+      "formatted_address":"4 Combez, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0981224,
+      "lng":31.3315338,
+      "types":[
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJh2KRM_MVWBQRk29xh76oDaE"
+   },
+   {
+      "name":"El Nozha For Shipping & Custom Clearance",
+      "formatted_address":"57 Haroun El-Rashid, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0994766,
+      "lng":31.3313652,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJh4s00_IVWBQRstejWdgcAlc"
+   },
+   {
+      "name":"El Qoswaa Optics",
+      "formatted_address":"17 متفرع من ش هارون الرشيد، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10008089999999,
+      "lng":31.3317705,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ_QWWbhIVWBQR5x6kVCicoMc"
+   },
+   {
+      "name":"Radisson Blu Hotel, Cairo Heliopolis",
+      "formatted_address":"Abdel Hamid Badawi St Heliopolis, Cairo Governorate 11787, Egypt",
+      "lat":30.1065093,
+      "lng":31.3753121,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJQZJ8fWUWWBQRAUPO9I6SxPg"
+   },
+   {
+      "name":"Greek Cultural Center",
+      "formatted_address":"1 ميدان صلاح الدين، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0959701,
+      "lng":31.3316764,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJqUvOiKtAWBQRTyx5-5Qk4_4"
+   },
+   {
+      "name":"Science Age Association",
+      "formatted_address":"El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10008059999999,
+      "lng":31.3326733,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJldZclfIVWBQRzHKVXyIReKg"
+   },
+   {
+      "name":"مسجد النور",
+      "formatted_address":"Sohag, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1001374,
+      "lng":31.3313626,
+      "types":[
+         "mosque",
+         "place_of_worship",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJwexAy_IVWBQRjYuWEg46kpM"
+   },
+   {
+      "name":"El Walid Tires",
+      "formatted_address":"43 Haroun El-Rashid, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1000925,
+      "lng":31.33191549999999,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ_QWWbhIVWBQRF9dXPrKeB0o"
+   },
+   {
+      "name":"Heliopolis Towers Hotel",
+      "formatted_address":"El Shaheed Sayed Zakaria, Sheraton Al Matar, El Nozha, Cairo Governorate 11736, Egypt",
+      "lat":30.1074763,
+      "lng":31.3661798,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJZ9p3820WWBQRmZh2M_MSzOQ"
+   },
+   {
+      "name":"Salmena Travel Co.",
+      "formatted_address":"30 Sohag, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0992852,
+      "lng":31.3328424,
+      "types":[
+         "travel_agency",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJb1vTDEsVWBQRQOmldiItWAU"
+   },
+   {
+      "name":"Baron Hotel Heliopolis",
+      "formatted_address":"14 Al Baroon, El-Montaza, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0860748,
+      "lng":31.3314609,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJUbVOACI-WBQRWsi5B7gYfxs"
+   },
+   {
+      "name":"QASR EL BARON JEWELLERY",
+      "formatted_address":"٥٩، Haroun El-Rashid, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0996021,
+      "lng":31.3314893,
+      "types":[
+         "jewelry_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJGaUm0_IVWBQRXr2hl1ccmK4"
+   },
+   {
+      "name":"الدكتورة شيرين ممدوح فوزى",
+      "formatted_address":"8 شارع الفاطميين -شقة 1- متفرع من شارع أبو بكر الصديق، ميدان سفير، Heliopolis, Cairo Governorate 11361, Egypt",
+      "lat":30.1004381,
+      "lng":31.3335008,
+      "types":[
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ4eZlW_IVWBQR-pVyZVXl6ZU"
+   },
+   {
+      "name":"Colours holiday hotel",
+      "formatted_address":"26 شارع شبين، Salah El-Din St., Heliopolis, Cairo Governorate 11351, Egypt",
+      "lat":30.0969487,
+      "lng":31.3316117,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ9eMwuV4VWBQRq19szKShiHk"
+   },
+   {
+      "name":"Narita Travel",
+      "formatted_address":"46 El Imam Aly St.، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0979318,
+      "lng":31.3313217,
+      "types":[
+         "travel_agency",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJEX4itYwVWBQRFcp3sgHrV_g"
+   },
+   {
+      "name":"Golden Park Hotel",
+      "formatted_address":"شارع الحجاز ، مصر الجديده، 221 شارع الحجاز ، هيليوبوليس ،، El Nozha, Cairo Governorate, Egypt",
+      "lat":30.1153686,
+      "lng":31.3525102,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJsQQdRNgVWBQRss6fVxNFk_8"
+   },
+   {
+      "name":"Straight Road",
+      "formatted_address":"شارع أمين الخولى، ميدان الاسماعيلية، Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0977896,
+      "lng":31.3328304,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJLVhpFvMVWBQRnh99sacxOH8"
+   },
+   {
+      "name":"Bedayat بدايات",
+      "formatted_address":"51-53 Abou Bakr El-Sedeek, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.10016469999999,
+      "lng":31.3336797,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJNQuUjvIVWBQRh7cvzoMWCIY"
+   },
+   {
+      "name":"مجموعه مستشفيات كليوبترا",
+      "formatted_address":"القاهرة, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0994106,
+      "lng":31.3321372,
+      "types":[
+         "hospital",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJq6r62vIVWBQROaCyFwZb6dE"
+   },
+   {
+      "name":"TOLIP El Galaa - Heliopolis",
+      "formatted_address":"El Orouba St, Sheraton Al Matar, El Nozha, Cairo Governorate, Egypt",
+      "lat":30.0985969,
+      "lng":31.3490226,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJvyeGu-QVWBQRkPqc2rg6IsE"
+   },
+   {
+      "name":"الملوك",
+      "formatted_address":"50 haroun el rashid st.، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1002015,
+      "lng":31.331601,
+      "types":[
+         "jewelry_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJMbYPyfIVWBQR-GGMci1utjY"
+   },
+   {
+      "name":"Notre Dame Des Apotres School Heliopolis",
+      "formatted_address":"Al Matar, El Nozha, Cairo Governorate, Egypt",
+      "lat":30.0986639,
+      "lng":31.3327399,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ3cu1H_MVWBQR3Jd2ZO2_XgE"
+   },
+   {
+      "name":"مركز هليوبوليس الطبى",
+      "formatted_address":"10 ش هارون الرشيد، El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1000234,
+      "lng":31.3318914,
+      "types":[
+         "hospital",
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJMbYPyfIVWBQR3d-Jv4yOlpc"
+   },
+   {
+      "name":"Qubbat Afandina",
+      "formatted_address":"Qasr Ad Dobarah, Abdeen, Cairo Governorate, Egypt",
+      "lat":30.0444196,
+      "lng":31.2357116,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ907IPMZAWBQR3TE9hAfEFWo"
+   },
+   {
+      "name":"Post Office - West Heliopolis",
+      "formatted_address":"El-Nozha, El Nozha, Cairo Governorate, Egypt",
+      "lat":30.1036179,
+      "lng":31.33018539999999,
+      "types":[
+         "post_office",
+         "finance",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ-1tRxpIVWBQR8pyCMmqAgXM"
+   },
+   {
+      "name":"شارع هارون مصر الجديدة - Haroun Street Heliopolis",
+      "formatted_address":"43-45 Abou Bakr El-Sedeek, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.1012259,
+      "lng":31.3322984,
+      "types":[
+         "shopping_mall",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJf4zEpvIVWBQRSSrLyqFS-NI"
+   },
+   {
+      "name":"سوق السجاد",
+      "formatted_address":"بجوار مطبعة العزازى، شارع الإمام على متفرع من شارع هارون، ميدان الاسماعيلية، Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.09776089999999,
+      "lng":31.3313331,
+      "types":[
+         "home_goods_store",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "place_id":"ChIJm1-lSvMVWBQRP-cJ6foiTpw"
+   },
+   {
+      "name":"دكتور مصطفى شوقى",
+      "formatted_address":"شارع سوهاج مصر الجديدة - قسم مصر الجديدة بجوار مدرسة نوتردام، Egypt",
+      "lat":30.0992884,
+      "lng":31.3329762,
+      "types":[
+         "health",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ2y0i5vIVWBQRu_WoUUGdLZc"
+   },
+   {
+      "name":"Citystars Heliopolis",
+      "formatted_address":"Citystars, Cairo Governorate 11771, Egypt",
+      "lat":30.0728734,
+      "lng":31.3458082,
+      "types":[
+         "shopping_mall",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJo0ecE_gVWBQRGGrouhZFdME"
+   },
+   {
+      "name":"Cleopatra Hospitals Group",
+      "formatted_address":"Alexandria, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.0993073,
+      "lng":31.3319708,
+      "types":[
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJP5712vIVWBQRJQwfZvtHSsw"
+   },
+   {
+      "name":"Il Pennello Ceramic Café & Restaurant",
+      "formatted_address":"Omar Ibn El-Khattab, El-Bostan, Heliopolis, Cairo Governorate, Egypt",
+      "lat":30.100229,
+      "lng":31.33329,
+      "types":[
+         "cafe",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJA9aGkfIVWBQR6C-ilXdzmvM"
+   },
+   {
+      "name":"The Great Pyramid of Giza",
+      "formatted_address":"Al Haram, Nazlet El-Semman, Al Giza Desert, Giza Governorate, Egypt",
+      "lat":29.9792345,
+      "lng":31.1342019,
+      "types":[
+         "tourist_attraction",
+         "premise",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJGymPrIdFWBQRJCSloj8vDIE"
+   },
+   {
+      "name":"Lemon Spaces sheraton Heliopolis",
+      "formatted_address":"Building # 19، El-Safa, Sheraton Al Matar, El Nozha, Cairo Governorate, Egypt",
+      "lat":30.1058785,
+      "lng":31.3667492,
+      "types":[
+         "lodging",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJ0dUH_3oXWBQRT1ZYgsJShvE"
+   },
+   {
+      "name":"مخبوزات عمر",
+      "formatted_address":"63 هارون الرشيد، البستان، قسم مصر الجديدة،، Cairo Governorate, Egypt",
+      "lat":30.0997543,
+      "lng":31.3314253,
+      "types":[
+         "shopping_mall",
+         "point_of_interest",
+         "establishment"
+      ],
+      "place_id":"ChIJWXL2SJUVWBQRH1izsXfgJcA"
+   }
+]
