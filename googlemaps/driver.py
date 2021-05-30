@@ -14,7 +14,7 @@ from text_unidecode import unidecode
 # gauth.LocalWebserverAuth()
 
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "D:\Bachelor\google-maps-services-python\google-maps-services-python-master\googlemaps\igneous-river-310512-373a899234a0.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "PATH"
 
 translate_client = translate.Client()
 
